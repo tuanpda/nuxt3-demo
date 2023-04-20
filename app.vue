@@ -1,6 +1,8 @@
 <template>
-  <div>
-    <NuxtWelcome />
+  <div class="antialiased">
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
 
